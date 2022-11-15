@@ -1,0 +1,1 @@
+URL du point de terminaison d'un déploiement elastic beanstalk en cours d'exécution : http://udagram-udacity-id-dev2.us-east-1.elasticbeanstalk.com/
